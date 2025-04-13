@@ -1,0 +1,7 @@
+"impulse-hl2rp"
+{
+	"base"		"continuation-impulse"
+	"title"		"Do you like butter?"
+	"author"	"vin, willmaster"
+	"menusystem" "1"
+}
