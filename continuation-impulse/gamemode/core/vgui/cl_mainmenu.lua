@@ -269,7 +269,7 @@ if not impulse.GetSetting("hud_original_hud") then
 		local year = os.date("%Y", os.time())
 		local copyrightLabel = vgui.Create("DLabel", self.core)
 		copyrightLabel:SetFont("Impulse-Elements14")
-		copyrightLabel:SetText("Powered using the Continuation Schema, made by WillMaster.\nPowered by impulse\nCopyright 2i.games "..year.."\nimpulse version: "..impulse.Version)
+		copyrightLabel:SetText("Powered by impulse\nCopyright 2i.games "..year.."\nimpulse version: "..impulse.Version.."\nPowered by Continuation Schema, By Mundee (aka. WillMaster)")
 		copyrightLabel:SizeToContents()
 		copyrightLabel:SetPos(ScrW()-copyrightLabel:GetWide(), ScrH()-copyrightLabel:GetTall()-5)
 	
