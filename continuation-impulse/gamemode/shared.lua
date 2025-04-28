@@ -85,7 +85,7 @@ if SERVER then
 		ip = "localhost",
 		username = "root",
 		password = "",
-		database = "revival_development",
+		database = "impulse_development",
 		port = 3306
 	}
 
