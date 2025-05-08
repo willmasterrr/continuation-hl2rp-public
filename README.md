@@ -4,6 +4,8 @@ I've decided to make the schema for continuation public, you have my full permis
 
 There wont be any bug fixes
 
+REQUIRES THIS MODULE!!: https://github.com/WilliamVenner/gmsv_reqwest
+
 # How do i setup an apartment?
 The apartment system is really shitty and weird.
 
