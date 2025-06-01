@@ -6,6 +6,9 @@ There wont be any bug fixes
 
 REQUIRES THIS MODULE!!: https://github.com/WilliamVenner/gmsv_reqwest
 
+# My schema wont bootup!!!
+you need to input a discord webhook link in the sv_webhook file.
+
 # How do i setup an apartment?
 The apartment system is really shitty and weird.
 
