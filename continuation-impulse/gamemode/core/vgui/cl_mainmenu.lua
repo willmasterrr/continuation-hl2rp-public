@@ -269,7 +269,7 @@ if not impulse.GetSetting("hud_original_hud") then
 		local year = os.date("%Y", os.time())
 		local copyrightLabel = vgui.Create("DLabel", self.core)
 		copyrightLabel:SetFont("Impulse-Elements14")
-		copyrightLabel:SetText("Powered by impulse\nCopyright 2i.games "..year.."\nimpulse version: "..impulse.Version.."\nPowered by Continuation Schema (By Mundee, https://github.com/willmasterLUA/continuation-hl2rp-public)")
+		copyrightLabel:SetText("Powered by impulse\nCopyright 2i.games "..year.."\nimpulse version: "..impulse.Version.."\nPowered by Continuation Schema (By willmasterr, https://github.com/willmasterrr/continuation-hl2rp-public)")
 		copyrightLabel:SizeToContents()
 		copyrightLabel:SetPos(ScrW()-copyrightLabel:GetWide(), ScrH()-copyrightLabel:GetTall()-5)
 	
@@ -623,7 +623,7 @@ else
 		local year = os.date("%Y", os.time())
 		local copyrightLabel = vgui.Create("DLabel", self.core)
 		copyrightLabel:SetFont("Impulse-Elements14")
-		copyrightLabel:SetText("Powered by impulse\nCopyright 2i.games "..year.."\nimpulse version: "..impulse.Version.."\nPowered by Continuation Schema (By Mundee, https://github.com/willmasterLUA/continuation-hl2rp-public)")
+		copyrightLabel:SetText("Powered by impulse\nCopyright 2i.games "..year.."\nimpulse version: "..impulse.Version.."\nPowered by Continuation Schema (By willmasterr, https://github.com/willmasterrr/continuation-hl2rp-public)")
 		copyrightLabel:SizeToContents()
 		copyrightLabel:SetPos(ScrW()-copyrightLabel:GetWide(), ScrH()-copyrightLabel:GetTall()-5)
 	
